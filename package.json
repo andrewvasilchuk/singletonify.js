@@ -22,7 +22,7 @@
   "main": "dist/singletonify.common.js",
   "unpkg": "dist/singletonify.min.js",
   "module": "dist/singletonify.esm.js",
-  "types": "types/index.d.ts",
+  "types": "dist/index.d.ts",
   "files": [
     "src",
     "dist",
