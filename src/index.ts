@@ -1,0 +1,1 @@
+export { Singletonify } from "./Singletonify";
